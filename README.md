@@ -1,6 +1,18 @@
-# 👋 Hi there! I'm Ruan
+<h2 align="left">Hi! I'm Ruan — Backend Developer, Pythonista, and Machine Learning Explorer.</h2>
 
-I'm a backend developer and Python enthusiast, currently studying **Analysis and Systems Development**. I specialize in building automations and backend solutions using Python, Django, and a variety of powerful libraries.
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ruanSTT&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ruanSTT&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+[![Connect on LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ruan-machado-ab1484266/)
+
+## About Me
+
+I'm a backend developer and Python enthusiast, currently studying **Analysis and Systems Development**.  
+I specialize in building automations and backend solutions using Python, Django, and a variety of powerful libraries.
 
 ---
 
@@ -21,24 +33,23 @@ I also teach Python programming, helping others understand both basic and advanc
 
 ---
 
+<p align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHFqOXB3bHZsZml1YTE5YmYzMHF5N213OWRvYWloY3BybWl6N21zYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2SYqgPxMm2kbVe3y02/giphy.gif" width="80%" />
+</p>
+
+---
+
+## My Projects
+
+✨ *Here is the projects that I've been working on! Feel free to contribute in any way:*
+
+- 🔗 [envscanner](https://github.com/ruanSTT/envscanner)
+- 🔗 [botscan](https://github.com/ruanSTT/botscan)
+---
+
 ## Goals for 2025
 
-- Continue improving in backend development and software design
-- Master automation with Python in real-world environments
-- Expand my skills in data-driven applications and ML
-- Share knowledge through tutorials, classes, and open collaboration
-
----
-
-![Metrics](https://github.com/ruanSTT/ruanSTT/blob/main/github-metrics.svg)
-
-## 🤝 Let's Connect!
-
-I'm always open to learning, teaching, and building something meaningful.  
-Feel free to check out my projects here on GitHub, or connect with me on LinkedIn!
-
-[![Connect on LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ruan-machado-ab1484266/)
-
----
-
-Thanks for stopping by!
+- Continue improving in backend development and software design  
+- Master automation with Python in real-world environments  
+- Expand my skills in data-driven applications and ML  
+- Share knowledge through tutorials, classes, and open collaboration  
