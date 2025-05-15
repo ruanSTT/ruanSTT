@@ -30,6 +30,8 @@ I also teach Python programming, helping others understand both basic and advanc
 
 ---
 
+![Metrics](https://github.com/ruanSTT/ruanSTT/blob/main/github-metrics.svg)
+
 ## 🤝 Let's Connect!
 
 I'm always open to learning, teaching, and building something meaningful.  
