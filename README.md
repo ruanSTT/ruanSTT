@@ -4,7 +4,7 @@ I'm a backend developer and Python enthusiast, currently studying **Analysis and
 
 ---
 
-## 🚀 What I'm Learning
+## What I'm Learning
 
 - Python (from basics to advanced)
 - Backend development and clean architecture
@@ -15,13 +15,13 @@ I'm a backend developer and Python enthusiast, currently studying **Analysis and
 
 ---
 
-## 🎓 I Teach Python!
+## I Teach Python!
 
 I also teach Python programming, helping others understand both basic and advanced concepts — from syntax and logic to automation and best practices in software development.
 
 ---
 
-## 🎯 Goals for 2025
+## Goals for 2025
 
 - Continue improving in backend development and software design
 - Master automation with Python in real-world environments
@@ -39,4 +39,4 @@ Feel free to check out my projects here on GitHub, or connect with me on LinkedI
 
 ---
 
-Thanks for stopping by! 🚀
+Thanks for stopping by!
