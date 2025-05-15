@@ -35,7 +35,7 @@ I also teach Python programming, helping others understand both basic and advanc
 I'm always open to learning, teaching, and building something meaningful.  
 Feel free to check out my projects here on GitHub, or connect with me on LinkedIn!
 
-[![Connect on LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/in/SEU-USUARIO-LINKEDIN](https://www.linkedin.com/in/ruan-machado-ab1484266/))
+[![Connect on LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ruan-machado-ab1484266/)
 
 ---
 
