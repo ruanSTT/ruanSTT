@@ -1,4 +1,4 @@
-<h2 align="left">Hi! I'm Ruan — Backend Developer, Pythonista, and Machine Learning Explorer.</h2>
+<h2 align="left">Hi! I'm Ruan — Backend Developer, Pythonist, and Machine Learning Explorer.</h2>
 
 ###
 
