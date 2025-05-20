@@ -49,5 +49,5 @@ I also teach Python programming, helping others understand both basic and advanc
 - Share knowledge through tutorials, classes, and open collaboration
 
 <p align="center">
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHFqOXB3bHZsZml1YTE5YmYzMHF5N213OWRvYWloY3BybWl6N21zYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2SYqgPxMm2kbVe3y02/giphy.gif" width="50%" />
+<img src="https://giffiles.alphacoders.com/219/219965.gif" width="70%" />
 </p>
