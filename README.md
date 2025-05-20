@@ -6,13 +6,18 @@
 
 ---
 
-## GitHub Stats
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=ruanSTT&show_icons=true&theme=radical" alt="Ruan Machados's GitHub stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruanSTT&hide_progress=true&theme=radical" alt="Top Langs" />
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ruanSTT&show_icons=true&theme=radical" alt="Ruan Machados's GitHub stats" />
-</p>
-
-<p align="center">
+<p align="center" style="margin-top: 20px;">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <br/>
 
@@ -37,18 +42,18 @@
 I'm a backend developer passionate about Python and automation.  
 Currently studying **Analysis and Systems Development**, I focus on building clean, scalable backend systems.
 
-- 💡 I work with automation tools like `Pywinauto`, `n8n`, and `BotCity`
-- 🔧 I follow clean code principles (`PEP8`, `flake8`, `black`)
-- 🤖 I'm diving into Machine Learning & Data Science
-- ✍️ I love sharing knowledge and helping others learn Python
+- 💡 I work with automation tools like `Pywinauto`, `n8n`, and `BotCity`  
+- 🔧 I follow clean code principles (`PEP8`, `flake8`, `black`)  
+- 🤖 I'm diving into Machine Learning & Data Science  
+- ✍️ I love sharing knowledge and helping others learn Python  
 
 ---
 
 ## 🚀 Current Focus
 
-- Deepening backend skills with Django REST Framework
-- Exploring Machine Learning models for real-world applications
-- Enhancing productivity with automation pipelines
+- Deepening backend skills with Django REST Framework  
+- Exploring Machine Learning models for real-world applications  
+- Enhancing productivity with automation pipelines  
 
 ---
 
@@ -56,15 +61,15 @@ Currently studying **Analysis and Systems Development**, I focus on building cle
 
 > *Projects that reflect my learning and practical applications.*
 
-- 🔗 [envscanner](https://github.com/ruanSTT/envscanner) — scan `.env` files and flag potential secrets
-- 🔗 [botscan](https://github.com/ruanSTT/botscan) — small CLI bot scanner and analyzer
+- 🔗 [envscanner](https://github.com/ruanSTT/envscanner) — scan `.env` files and flag potential secrets  
+- 🔗 [botscan](https://github.com/ruanSTT/botscan) — small CLI bot scanner and analyzer  
 
 ---
 
 ## 🧑‍🏫 I Also Teach Python
 
 I help beginners and aspiring developers understand Python — from basic logic to automation and structuring professional code.  
-If you're looking to **learn Python from scratch or enhance your skills**, let's connect!
+If you're looking to **learn Python from scratch or enhance your skills**, let's connect!  
 
 ---
 
