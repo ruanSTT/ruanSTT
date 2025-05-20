@@ -57,15 +57,6 @@ Currently studying **Analysis and Systems Development**, I focus on building cle
 
 ---
 
-## 📚 Featured Projects
-
-> *Projects that reflect my learning and practical applications.*
-
-- 🔗 [envscanner](https://github.com/ruanSTT/envscanner) — scan `.env` files and flag potential secrets  
-- 🔗 [botscan](https://github.com/ruanSTT/botscan) — small CLI bot scanner and analyzer  
-
----
-
 ## 🧑‍🏫 I Also Teach Python
 
 I help beginners and aspiring developers understand Python — from basic logic to automation and structuring professional code.  
