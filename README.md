@@ -1,4 +1,4 @@
-<h2 align="center">Hi, I'm Ruan 👋 — Backend Developer & Python Enthusiast</h2>
+<h2 align="center">Hi, I'm Ruan — Backend Developer & Python Enthusiast</h2>
 
 <p align="center">
   <em>Crafting automation, clean code, and exploring the potential of Machine Learning.</em>
@@ -37,19 +37,19 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 I'm a backend developer passionate about Python and automation.  
 Currently studying **Analysis and Systems Development**, I focus on building clean, scalable backend systems.
 
-- 💡 I work with automation tools like `Pywinauto`, `n8n`, and `BotCity`  
-- 🔧 I follow clean code principles (`PEP8`, `flake8`, `black`)  
-- 🤖 I'm diving into Machine Learning & Data Science  
-- ✍️ I love sharing knowledge and helping others learn Python  
+- I work with automation tools like `Pywinauto`, `n8n`, and `BotCity`  
+- I follow clean code principles (`PEP8`, `flake8`, `black`)  
+- I'm diving into Machine Learning & Data Science  
+- I love sharing knowledge and helping others learn Python  
 
 ---
 
-## 🚀 Current Focus
+## Current Focus
 
 - Deepening backend skills with Django REST Framework  
 - Exploring Machine Learning models for real-world applications  
@@ -57,14 +57,14 @@ Currently studying **Analysis and Systems Development**, I focus on building cle
 
 ---
 
-## 🧑‍🏫 I Also Teach Python
+## I Also Teach Python
 
 I help beginners and aspiring developers understand Python — from basic logic to automation and structuring professional code.  
 If you're looking to **learn Python from scratch or enhance your skills**, let's connect!  
 
 ---
 
-## 📬 Contact
+## Contact
 
 <p align="center">
   <strong>Interested in working together, learning together, or just talking tech? Let’s connect on LinkedIn:</strong>
