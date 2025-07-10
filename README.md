@@ -42,8 +42,7 @@
 I'm a backend developer passionate about Python and automation.  
 Currently studying **Analysis and Systems Development**, I focus on building clean, scalable backend systems.
 
-- I work with automation tools like `Pywinauto`, `n8n`, and `BotCity`  
-- I follow clean code principles (`PEP8`, `flake8`, `black`)  
+- I work with automation tools like `Pywinauto`, `Selenium`, `n8n` and `BotCity`  
 - I'm diving into Machine Learning & Data Science  
 - I love sharing knowledge and helping others learn Python  
 
